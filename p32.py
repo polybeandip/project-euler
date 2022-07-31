@@ -12,7 +12,7 @@ def special(a,b,c):
     else: return False
 
 count = 0
-works = set() I am having a hard time using vim if I am being completely honest right now
+works = set() 
 
 for i in range(1,100000):
     for j in range(i, int(10**(5 - log10(i) + 1))):
